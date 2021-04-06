@@ -1,6 +1,6 @@
 # BGPHijacking
 
-This is upgraded version of the [BGP Path Hijacking Attack Demo](https://github.com/mininet/mininet/wiki/BGP-Path-Hijacking-Attack-Demo)
+This is upgraded version of the [BGP Path Hijacking Attack Demo](https://github.com/mininet/mininet/wiki/BGP-Path-Hijacking-Attack-Demo). Writeup can be found at [Medium](https://jl4730.medium.com/bgp-path-hijacking-attack-inside-mininet-d5414a4ce429).
 
 ## bgp.py
 main file, defines the topology
